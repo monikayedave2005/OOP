@@ -1,0 +1,8 @@
+----Student Data----
+----------------------
+Roll No : 2
+Name : asdf
+Marks : 433.0
+Grade : q
+----------------------
+2||asdf||433.0||q
